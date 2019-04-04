@@ -1,5 +1,7 @@
 # The official repository for the Rock the JVM Akka HTTP with Scala course
 
+Powered by [Rock the JVM!](rockthejvm.com)
+
 This repository contains the code we wrote during  [Rock the JVM's Akka HTTP with Scala](https://www.udemy.com/akka-http) course on Udemy. Unless explicitly mentioned, the code in this repository is exactly what was caught on camera.
 
 ### How to install
@@ -53,3 +55,4 @@ If you have changes to suggest to this repo, either
 - submit a GitHub issue
 - tell me in the course Q/A forum
 - submit a pull request!
+
